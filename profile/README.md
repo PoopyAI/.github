@@ -1,6 +1,6 @@
 # PoopyAI
 
-PoopyAI is an innovative AI platform that is currently in its beta stage of development. It offers a range of AI models and services to users, with a focus on providing free AI models for public use. Although PoopyAI is still gaining popularity, it has garnered attention from AI and machine learning enthusiasts and researchers due to its unique offerings.
+[PoopyAI](https://www.poopyai.com) is an innovative AI platform that is currently in its beta stage of development. It offers a range of AI models and services to users, with a focus on providing free AI models for public use. Although PoopyAI is still gaining popularity, it has garnered attention from AI and machine learning enthusiasts and researchers due to its unique offerings.
 
 ## Poopygpt Text Generator
 
@@ -17,6 +17,8 @@ PoopyAI distinguishes between its Long Term Support (LTS) models and legacy proj
 ## Poopygpt 3.0 - Next Generation
 
 Currently, the PoopyAI team is working on Poopygpt 3.0, the next generation of the Poopygpt series. Poopygpt 3.0 will contain a larger training dataset and offer improved speed compared to its predecessors. With the addition of more data, Poopygpt 3.0 aims to be less limited in its capabilities than Poopygpt 2.0. However, please note that Poopygpt 3.0 will not be in Long Term Support (LTS).
+
+[Help us with Poopygpt 3.0](https://github.com/PoopyAI/pgpt3-data)
 
 ## Conclusion
 
