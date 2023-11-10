@@ -1,3 +1,3 @@
-PoopyAI is a poopy service that has free AI models are for use by anyone, even commercial use.
+PoopyAI has cheap AI models for use by the user.
 
-That text was generated using [Poopygpt 2](http://www.poopyai.com/textgen-2.0.php)
+That text was generated using [PoopyGPT-1](http://www.poopyai.com/poopygpt1.php) using prompt "PoopyAI has cheap AI"
